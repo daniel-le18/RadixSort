@@ -1,3 +1,3 @@
-# RadixSort
+https://forthebadge.com/images/badges/made-with-java.svg
 
-https://badgen.net/badge/github/java/orange?icon=github
+# RadixSort
